@@ -9,7 +9,7 @@ Provide features to select multiple bullets, Score calculator, player's life fun
 
 ## Installation
 
-Use (https://github.com/mbhavsar1994/SpaceInvador.git) clone game SpaceInvador.
+Use (https://github.com/krishna97p/SpaceInvador.git) clone game SpaceInvador.
 
 Project is build and run with the pre installed Visual Studio 2017 and later
 
